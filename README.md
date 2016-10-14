@@ -63,6 +63,7 @@ More info [here](http://tensorflow.org).
 * [End-To-End Memory Networks](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - Tensorflow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
@@ -138,6 +139,7 @@ More info [here](http://tensorflow.org).
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 * [Tensorflow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use Tensorflow from the basics of graph computing, to deep learning models to using it in production environmemts - Bleeding Edge Press
 * [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 
 
 <a name="contributions" />
@@ -145,7 +147,7 @@ More info [here](http://tensorflow.org).
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
-Also, when you noticed that listed repository should be deprecated.
+Also, if you notice that any of the above listed repositories should be deprecated, due to any of the following reasons:
 
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
